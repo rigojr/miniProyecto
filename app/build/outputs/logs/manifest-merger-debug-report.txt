@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e9dcf25317aa21eb184346482168a761/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/afbd528618d501c037234dc9ac6a936c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/aa3441e407e04368cf42c8e8ddbd9091/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/643fe6fdc670e5252fa228e0c7169fb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e8c2969c6bd8a7c138236c42d80899c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7c72f8a6cb04e9697cd1384430afbba3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/51a1e52b647e42a4c5b1b7cafbf21cd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b3c6664b0900ef54627a987ce01aec6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e3d0554e2940e213f00cb91b9829c3f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7a37af7bc310b931c49e84939edeec88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/91b5bfcc9c6996ee64ef314238ea7ff2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c26e33c525d260bb851ef02d5cdb8863/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3e1180d309bd3919ddd8d20aa7909ede/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eeced192745444bb2ad70603eb7f8a8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/69fbe6c2786c89f958b0c8745b07542f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5d3073f875f55d8c21e833f7128abca/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ad90d713065195d075b7c3988b252b36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a5cc525383f81f6ccc7427e246f1baa1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f027b25c313b3954e3942a2cc67237f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/81508ad86b01630587d35f3648e8c233/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/456ce4c8c42490d7e672db4e5808abdd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/49aebf55cae09e15e4d10541e5a1eefa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6cc02c2d5ad793ed2f93033f0830c042/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d2ea0530fee44be550a43b02c982c789/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c19c7d17d20943e51ed1e3560e40133/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/870e5cebfb53548872536a83d34a4c02/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:4:5-10:43
+MERGED from [com.android.support:support-compat:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/69fbe6c2786c89f958b0c8745b07542f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/69fbe6c2786c89f958b0c8745b07542f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5d3073f875f55d8c21e833f7128abca/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5d3073f875f55d8c21e833f7128abca/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/69fbe6c2786c89f958b0c8745b07542f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e9dcf25317aa21eb184346482168a761/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e9dcf25317aa21eb184346482168a761/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/afbd528618d501c037234dc9ac6a936c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/afbd528618d501c037234dc9ac6a936c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/aa3441e407e04368cf42c8e8ddbd9091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/aa3441e407e04368cf42c8e8ddbd9091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/643fe6fdc670e5252fa228e0c7169fb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/643fe6fdc670e5252fa228e0c7169fb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e8c2969c6bd8a7c138236c42d80899c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e8c2969c6bd8a7c138236c42d80899c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7c72f8a6cb04e9697cd1384430afbba3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7c72f8a6cb04e9697cd1384430afbba3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/51a1e52b647e42a4c5b1b7cafbf21cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/51a1e52b647e42a4c5b1b7cafbf21cd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b3c6664b0900ef54627a987ce01aec6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b3c6664b0900ef54627a987ce01aec6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e3d0554e2940e213f00cb91b9829c3f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e3d0554e2940e213f00cb91b9829c3f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7a37af7bc310b931c49e84939edeec88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7a37af7bc310b931c49e84939edeec88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/91b5bfcc9c6996ee64ef314238ea7ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/91b5bfcc9c6996ee64ef314238ea7ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c26e33c525d260bb851ef02d5cdb8863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c26e33c525d260bb851ef02d5cdb8863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3e1180d309bd3919ddd8d20aa7909ede/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3e1180d309bd3919ddd8d20aa7909ede/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eeced192745444bb2ad70603eb7f8a8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eeced192745444bb2ad70603eb7f8a8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/69fbe6c2786c89f958b0c8745b07542f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/69fbe6c2786c89f958b0c8745b07542f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5d3073f875f55d8c21e833f7128abca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e5d3073f875f55d8c21e833f7128abca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ad90d713065195d075b7c3988b252b36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ad90d713065195d075b7c3988b252b36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a5cc525383f81f6ccc7427e246f1baa1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a5cc525383f81f6ccc7427e246f1baa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f027b25c313b3954e3942a2cc67237f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f027b25c313b3954e3942a2cc67237f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/81508ad86b01630587d35f3648e8c233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/81508ad86b01630587d35f3648e8c233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/456ce4c8c42490d7e672db4e5808abdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/456ce4c8c42490d7e672db4e5808abdd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/49aebf55cae09e15e4d10541e5a1eefa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/49aebf55cae09e15e4d10541e5a1eefa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6cc02c2d5ad793ed2f93033f0830c042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6cc02c2d5ad793ed2f93033f0830c042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d2ea0530fee44be550a43b02c982c789/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d2ea0530fee44be550a43b02c982c789/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c19c7d17d20943e51ed1e3560e40133/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jefferson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c19c7d17d20943e51ed1e3560e40133/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/870e5cebfb53548872536a83d34a4c02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/jefferson/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/870e5cebfb53548872536a83d34a4c02/AndroidManifest.xml:20:5-44
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jefferson/Documentos/Progrmacion bajo ambiente android/miniproyecto/miniProyecto-Android/app/src/main/AndroidManifest.xml
